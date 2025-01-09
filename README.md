@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop Access 
 - Basic Knowledge of IIS (Internet Information Services)
 - osTicket Installation Files
-- Item 5 
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
