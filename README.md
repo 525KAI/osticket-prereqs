@@ -40,8 +40,8 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 
 Check the licensing box and review & create the VM. Do NOT make any changes to the management, disks, or networking sections.
 
-<p>
-"C:\Users\kaibr\Desktop\VM Installation PIC 1.jpg"
+<p>![image](https://github.com/user-attachments/assets/ef66c1ee-553c-456b-a9d4-ddbe01496811)
+
 
 </p>
 <p>
