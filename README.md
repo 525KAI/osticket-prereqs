@@ -23,10 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - A Microsoft Azure Account
-- Item 2
+- Remote Desktop Access (& How To Use)
 - Item 3
 - Item 4
-- Item 5
+- Item 5 
 
 <h2>Installation Steps</h2>
 
