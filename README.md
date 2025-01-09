@@ -28,6 +28,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket Installation Files
 - HeidiSQL
 
+STEP 1: Create A Vitual Machine
+
 <h2>Installation Steps</h2>
 
 <p>
