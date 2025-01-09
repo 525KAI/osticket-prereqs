@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - A Microsoft Azure Account
 - Remote Desktop Access 
 - Basic knowledge of IIS (Internet Information Services)
-- Item 4
+- osTicket Installation Files
 - Item 5 
 
 <h2>Installation Steps</h2>
