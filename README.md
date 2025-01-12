@@ -39,8 +39,9 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 - **Size:** 2 vCPUs, 8 GiB memory  (use at minimum to prevent slow processing)
 
 Check the licensing box and review & create the VM. Do NOT make any changes to the management, disks, or networking sections.
+![Screenshot 2025-01-09 090420](https://github.com/user-attachments/assets/357eea8b-5cb7-4634-905c-91c8a0d1ba61)
 
-<p>![Screenshot 2025-01-09 090420](https://github.com/user-attachments/assets/45b4d153-aed3-493b-90dc-235b825893af)
+<p>
 </p>
         
      </p>
