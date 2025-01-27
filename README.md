@@ -45,6 +45,9 @@ Check the licensing box and review & create the VM. Do NOT make any changes to t
 
 ![Screenshot 2](https://github.com/user-attachments/assets/074737f9-3ce8-4825-9990-ffaa58e98f9b)
 
+![Screenshot 3](https://github.com/user-attachments/assets/352a4dc8-d448-44f3-affd-a782deee2716)
+
+
 
 
 
